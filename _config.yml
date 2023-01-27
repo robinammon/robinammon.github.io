@@ -2,5 +2,5 @@ theme: minima
 title: Homepage
 
 header_pages:
-  - README.md
+  - index.md
   - page.md
