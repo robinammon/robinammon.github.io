@@ -1,6 +1,5 @@
 theme: minima
 title: Homepage
-description: bookmark
 
 header_pages:
   - README.md
