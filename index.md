@@ -2,6 +2,9 @@
 title: "Home"
 ---
 
+Hi! I am a PhD student in Mathematics at the University of Glasgow, supervised by Alex Bartel.
+I did my undergrad at TU Kaiserslautern, where my Master's Thesis was supervised by Gunter Malle.
+
 # Hello!
 
 You can use the [editor on GitHub](https://github.com/robinammon/robinammon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
