@@ -4,9 +4,14 @@ title: "Conferences"
 permalink: /conferences/
 ---
 
+<!--- Upcoming: / Upcoming Conferences: / I will be at the following conferences: / plan to go --->
+
 ## Upcoming Conferences
 
 * Lenstra
+
+
+<!--- Here is a list of conferences that I've attended in the past: --->
 
 ## Past Conferences
 
