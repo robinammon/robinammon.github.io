@@ -1,9 +1,15 @@
 ---
 layout: default
-title: "Research"
-permalink: /research/
+title: "Conferences"
+permalink: /conferences/
 ---
 
-## Hello
+## Upcoming Conferences
 
-This is a page
+* Lenstra
+
+## Past Conferences
+
+* COUNT
+* Y-RANT
+* YRM
