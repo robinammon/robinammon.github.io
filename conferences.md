@@ -10,6 +10,6 @@ permalink: /conferences/
 
 ## Past Conferences
 
-* COUNT
+* Feb 2023: COUNT: COmputations and their Uses in Number Theory
 * Y-RANT
 * YRM
