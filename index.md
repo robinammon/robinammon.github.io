@@ -1,5 +1,4 @@
 ---
-title: "Home"
 ---
 
 Hi! I am a PhD student in Mathematics at the University of Glasgow, working with [Alex Bartel](https://www.maths.gla.ac.uk/~abartel/).
