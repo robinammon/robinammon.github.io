@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: "Talks"
 permalink: /talks/
 ---
