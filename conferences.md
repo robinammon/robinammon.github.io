@@ -15,6 +15,6 @@ permalink: /conferences/
 
 ## Past Conferences
 
-* Feb 2023: COUNT: COmputations and their Uses in Number Theory
-* Y-RANT
-* YRM
+* Feb 2023: COUNT: COmputations and their Uses in Number Theory, CIRM Luminy
+* Aug 2022: Y-RANT: Young Researchers in Algebraic Number Theory, Glasgow
+* Jun 2021: Young Researchers in Mathematics, online
