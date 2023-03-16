@@ -9,6 +9,6 @@ I did my undergrad at TU Kaiserslautern, where my Master's Thesis was supervised
 
 You can contact me under r.ammon.1 [at] research.gla.ac.uk.
 
-<img src="images/pic.jpeg" width="250">
+<img src="images/pic.jpeg" width="600">
 
 <!--- in Markdown: ![Robin](/images/pic.jpeg), but this cannot be scaled --->
