@@ -9,4 +9,4 @@ I did my undergrad at TU Kaiserslautern, where my Master's Thesis was supervised
 
 You can contact me under r [dot] ammon [dot] 1 [at] research [dot] gla [dot] ac [dot] uk.
 
-![Robin](robinammon.github.io/images/pic.jpeg)
+![Robin](/images/pic.jpeg)
