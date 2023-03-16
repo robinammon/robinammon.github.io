@@ -7,9 +7,8 @@ permalink: /talks/
 Here is a list of talks that I've given at conferences and research seminars:
 
 * Aug 2022: _Cohen--Lenstra Heuristics: Distribution of Class Groups of Random Number Fields_, [Y-RANT](https://heilbronn.ac.uk/2022/04/21/y-rant-2022/), Glasgow, [Slides](/docs/Talk_Y_RANT.pdf)
-* Mar 2021: _Jordan Blocks of Unipotent Elements in Spin Groups_, [Number Theory Seminar](https://sites.google.com/view/tinkovamagdalena/teaching/number-theory-seminar), Charles University Prague (online)
+* Mar 2021: _Jordan Blocks of Unipotent Elements in Spin Groups_, [Number Theory Seminar](https://sites.google.com/view/tinkovamagdalena/teaching/number-theory-seminar), Charles University Prague (online), [Slides](/docs/Talk_Prague.pdf)
 
-Put slides!
 
 Moreover, I have given several talks at the [Glasgow Algebra Pre-Seminar (GAPS)](https://sites.google.com/view/glasgowalgebrapreseminar/home), which takes place before the Glasgow [Algebra and Number Theory Seminar](https://www.gla.ac.uk/schools/mathematicsstatistics/events/?seriesID=4) and aims at providing other PhD students with the necessary background to follow the main seminar talk:
 
@@ -19,6 +18,4 @@ Moreover, I have given several talks at the [Glasgow Algebra Pre-Seminar (GAPS)]
 * Dec 2021: _Arithmetic Statistics and Elliptic Curves_, ahead of the main talk _Average Ranks of Elliptic Curves after p-Extension_ by [Ross Paterson](https://ramifiedprime.github.io/)
 
 
-
-
-I enjoy giving talks to non-experts...
+<!--- I enjoy giving talks to non-experts... and promote mathematics... might put PG seminar talks here --->
