@@ -8,7 +8,7 @@ permalink: /conferences/
 
 ## Upcoming Conferences
 
-* Lenstra
+* Apr 2023: [Arithmetic, Algebra, and Algorithms -- Celebrating the Mathematics of Hendrik Lenstra](https://www.icms.org.uk/workshops/2023/arithmetic-algebra-and-algorithms), ICMS Edinburgh
 
 
 <!--- Here is a list of conferences that I've attended in the past: / I have attended the following conferences in the past / In the past, I have ... --->
