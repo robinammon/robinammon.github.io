@@ -7,6 +7,6 @@ Hi! I am a PhD student in Mathematics at the University of Glasgow, working with
 I did my undergrad at TU Kaiserslautern, where my Master's Thesis was supervised by [Gunter Malle](https://www.mathematik.uni-kl.de/~malle/en/).
 
 
-You can contact me under r [dot] ammon [dot] 1 [at] research [dot] gla [dot] ac [dot] uk.
+You can contact me under r.ammon.1 [at] research.gla.ac.uk.
 
-![Robin](/images/pic.jpeg)
+![Robin](/images/pic.jpeg | width=100)
