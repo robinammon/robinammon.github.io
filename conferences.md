@@ -15,6 +15,6 @@ permalink: /conferences/
 
 ## Past Conferences
 
-* Feb 2023: COUNT: COmputations and their Uses in Number Theory, CIRM Luminy
-* Aug 2022: Y-RANT: Young Researchers in Algebraic Number Theory, Glasgow
-* Jun 2021: Young Researchers in Mathematics, online
+* Feb 2023: [COUNT: COmputations and their Uses in Number Theory](https://conferences.cirm-math.fr/2805.html), CIRM Luminy
+* Aug 2022: [Y-RANT: Young Researchers in Algebraic Number Theory](https://heilbronn.ac.uk/2022/04/21/y-rant-2022/), Glasgow
+* Jun 2021: [Young Researchers in Mathematics](https://heilbronn.ac.uk/2020/02/20/yrm-2021/), online
