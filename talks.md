@@ -11,4 +11,14 @@ Here is a list of talks that I've given at conferences and research seminars:
 
 Put slides!
 
-Moreover......
+Moreover, I have given several talks at the [Glasgow Algebra Pre-Seminar (GAPS)](https://sites.google.com/view/glasgowalgebrapreseminar/home), which takes place before the Glasgow [Algebra and Number Theory Seminar](https://www.gla.ac.uk/schools/mathematicsstatistics/events/?seriesID=4) and aims at providing other PhD students with the necessary background to follow the main seminar talk:
+
+* Jan 2023: _Modular Representation Theory_, ahead of the main talk _Endomorphisms of Gelfand--Graev representations_ by [Jack Shotton](https://jackgshotton.webspace.durham.ac.uk/)
+* Nov 2022: _Serre's Modularity Conjecture_, ahead of the main talk _Modularity in the partial weight one case_ by [Hanneke Wiersema](https://www.dpmms.cam.ac.uk/~hw600/)
+* Feb 2022: _The Absolute Galois Group of Q, p-adic Galois Representations, and Modular Forms_, ahead of the main talk _p-adic variation of Galois representations and modular forms_ by [Rebecca Bellovin](https://rmbellovin.github.io/)
+* Dec 2021: _Arithmetic Statistics and Elliptic Curves_, ahead of the main talk _Average Ranks of Elliptic Curves after p-Extension_ by [Ross Paterson](https://ramifiedprime.github.io/)
+
+
+
+
+I enjoy giving talks to non-experts...
