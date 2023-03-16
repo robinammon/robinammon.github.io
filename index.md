@@ -9,6 +9,6 @@ I did my undergrad at TU Kaiserslautern, where my Master's Thesis was supervised
 
 You can contact me under r.ammon.1 [at] research.gla.ac.uk.
 
-<img src="/images/pic.jpeg" width=50%>
+<img src="https://robinammon.github.io/images/pic.jpeg" width=50%>
 
 ![Robin](/images/pic.jpeg | width=100)
