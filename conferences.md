@@ -13,7 +13,7 @@ I will be at the following conferences:
 * May 2023: [Arithmetic Statistics](https://conferences.cirm-math.fr/2675.html), CIRM Luminy
 
 
-<!--- Here is a list of conferences that I've attended in the past: / I have attended the following conferences in the past / In the past, I have ... --->
+<!--- / I have attended the following conferences in the past / In the past, I have ... --->
 
 Here is a list of conferences that I've attended in the past:
 
