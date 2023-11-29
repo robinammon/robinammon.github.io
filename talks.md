@@ -6,6 +6,9 @@ permalink: /talks/
 
 Here is a list of talks that I've given at conferences and research seminars:
 
+* Nov 2023: _Arithmetic Statistics and the Cohen--Lenstra Principle_, [GEARS](https://sites.google.com/view/gears-seminar/home), Edinburgh
+* Nov 2023: _Cohen--Lenstra Heuristics for Ray Class Groups_, [Junior Number Theory Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/juniornumbertheory/23-24/), University of Warwick
+* Nov 2023: _Cohen--Lenstra Heuristics for Ray Class Groups_, Glasgow internal number theory seminar, 3 talks
 * Aug 2022: _Cohen--Lenstra Heuristics: Distribution of Class Groups of Random Number Fields_, [Y-RANT](https://heilbronn.ac.uk/2022/04/21/y-rant-2022/), Glasgow, [Slides](/docs/Talk_Y_RANT.pdf)
 * Mar 2021: _Jordan Blocks of Unipotent Elements in Spin Groups_, [Number Theory Seminar](https://sites.google.com/view/tinkovamagdalena/teaching/number-theory-seminar), Charles University Prague (online), [Slides](/docs/Talk_Prague.pdf)
 
