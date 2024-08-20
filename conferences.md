@@ -13,6 +13,7 @@ permalink: /conferences/
 
 Here is a list of conferences that I've attended in the past:
 
+* Aug 2024: [Y-RANT: Young Researchers in Algebraic Number Theory](https://y-rant.github.io/), Oxford
 * May 2023: [Spring School in Arithmetic Statistics](https://conferences.cirm-math.fr/2679.html), CIRM Luminy
 * May 2023: [Arithmetic Statistics](https://conferences.cirm-math.fr/2675.html), CIRM Luminy
 * Apr 2023: [Arithmetic, Algebra, and Algorithms -- Celebrating the Mathematics of Hendrik Lenstra](https://www.icms.org.uk/workshops/2023/arithmetic-algebra-and-algorithms), ICMS Edinburgh
