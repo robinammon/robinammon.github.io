@@ -6,6 +6,7 @@ permalink: /talks/
 
 Here is a list of talks that I've given at conferences and research seminars:
 
+* Aug 2024: _Distribution of Ray Class Groups of Random Number Fields_, [Y-RANT](https://y-rant.github.io/), Oxford
 * Nov 2023: _Arithmetic Statistics and the Cohen--Lenstra Principle_, [GEARS](https://sites.google.com/view/gears-seminar/home), Edinburgh
 * Nov 2023: _Cohen--Lenstra Heuristics for Ray Class Groups_, [Junior Number Theory Seminar](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/juniornumbertheory/23-24/), University of Warwick
 * Nov 2023: _Cohen--Lenstra Heuristics for Ray Class Groups_, Glasgow internal number theory seminar, 3 talks
