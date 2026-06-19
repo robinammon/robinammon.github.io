@@ -11,5 +11,5 @@ and in doing so proposed a conjecture for their distribution, which amongst othe
 of ray class groups in certain families of number fields.
 
 During my Master's studies, I specialised in the representation theory of linear algebraic groups. 
-In my Master's Thesis, I developed and implemented an algorithm that allows to compute the Jordan blocks 
+In my [Master's Thesis](/docs/masters_thesis.pdf), I developed and implemented an algorithm that allows to compute the Jordan blocks 
 of the images of the unipotent elements of the spin groups under the spin and half-spin representations.
