@@ -14,7 +14,7 @@ Here is a list of talks that I've given at conferences and research seminars:
 * Mar 2021: _Jordan Blocks of Unipotent Elements in Spin Groups_, [Number Theory Seminar](https://sites.google.com/view/tinkovamagdalena/teaching/number-theory-seminar), Charles University Prague (online), [Slides](/docs/talk_prague.pdf)
 
 
-Moreover, I have given several talks at the [Glasgow Algebra Pre-Seminar (GAPS)](https://sites.google.com/view/glasgowalgebrapreseminar/home), which takes place before the Glasgow [Algebra and Number Theory Seminar](https://www.gla.ac.uk/schools/mathematicsstatistics/events/?seriesID=4) and aims at providing other PhD students with the necessary background to follow the main seminar talk:
+Moreover, I have given several talks at the [Glasgow Algebra Pre-Seminar (GAPS)](https://sites.google.com/view/glasgowalgebrapreseminar/home), which takes place before the Glasgow [Algebra and Number Theory Seminar](https://www.gla.ac.uk/schools/mathematicsstatistics/events/?seriesID=4) and aims at providing other PhD students with the necessary background that is needed to follow the main seminar talk:
 
 * Jan 2023: _Modular Representation Theory_, ahead of the main talk _Endomorphisms of Gelfand--Graev representations_ by [Jack Shotton](https://www.durham.ac.uk/staff/jack-g-shotton/)
 * Nov 2022: _Serre's Modularity Conjecture_, ahead of the main talk _Modularity in the partial weight one case_ by [Hanneke Wiersema](https://hannekewiersema.github.io)
